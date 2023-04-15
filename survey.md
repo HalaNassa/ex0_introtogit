@@ -1,5 +1,5 @@
-Favorite color: 
-Favorite food: 
-Favorite musician/band: 
-Favorite movie: 
-Requested grade in the course: 
+Favorite color: Black
+Favorite food: Pasta
+Favorite musician/band: None
+Favorite movie: Avatar
+Requested grade in the course: 99
